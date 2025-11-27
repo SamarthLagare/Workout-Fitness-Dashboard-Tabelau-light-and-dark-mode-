@@ -11,7 +11,7 @@ This project is a highly interactive **Tableau Dashboard** designed to track per
 The dashboard visualizes workout frequency, calorie burn analysis, and activity types (Running, HIIT, Pilates, Pickleball) using advanced chart types and custom design elements.
 
 ## 🔗 Live Demo
-**[[👉 Click here to view the interactive dashboard on Tableau Public](#)](https://lnkd.in/d3G9bbBw)**
+**[[👉 Click here to view the interactive dashboard]((https://public.tableau.com/app/profile/samarth.lagare/viz/WorkoutTracker_VisualizeFitnessDatainTableau-LightMode/Dashboard1))**
 
 ## 🧠 Key Technical Features
 
