@@ -11,14 +11,7 @@ This project is a highly interactive **Tableau Dashboard** designed to track per
 The dashboard visualizes workout frequency, calorie burn analysis, and activity types (Running, HIIT, Pilates, Pickleball) using advanced chart types and custom design elements.
 
 ## 🔗 Live Demo
-**[👉 Click here to view the interactive dashboard on Tableau Public](#)**
-*(Replace this line with your actual Tableau Public link)*
-
-## 📸 Screenshots
-
-| Light Mode ☀️ | Dark Mode 🌙 |
-|:---:|:---:|
-| *[Insert screenshot of Light Mode here]* | *[Insert screenshot of Dark Mode here]* |
+**[[👉 Click here to view the interactive dashboard on Tableau Public](#)](https://lnkd.in/d3G9bbBw)**
 
 ## 🧠 Key Technical Features
 
@@ -39,12 +32,4 @@ This dashboard utilizes advanced Tableau techniques:
 * **Data Processing:** Microsoft Excel (Data cleaning and structure)
 * **Design:** Figma (for background assets/icons) & Tableau Formatting
 
-## 📂 Repository Structure
 
-```bash
-├── Workout Tracker.twbx   # The packaged Tableau workbook
-├── Data/
-│   └── workout_data.xlsx  # Raw dataset used
-├── Assets/
-│   └── screenshots/       # Images for this README
-└── README.md
